@@ -1,0 +1,40 @@
+/*--------header---------*/
+.header {
+    background-color: navy;
+}
+/*--------end header---------*/
+
+
+/*--------banner---------*/
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/mlbb2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-content {
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragraf {
+    font-size: x-large;
+}
+/*--------end banner---------*/
+
+
+/*--------card---------*/
+.card-content {
+    background-color: navy;
+}
+
+.btn {
+    background-color: darkblue
+}
+/*--------end card---------*/
+
+
